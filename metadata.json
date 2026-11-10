@@ -1,0 +1,6 @@
+{
+  "name": "The Tiebreaker - AI Decision Matrix & Intelligence",
+  "description": "Break deadlocks with multi-dimensional decision analysis: structured pros and cons, side-by-side comparison tables, SWOT matrices, criteria weighting, and definitive verdicts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
